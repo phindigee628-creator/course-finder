@@ -2,7 +2,7 @@
 
 A sample quiz that helps a school leaver find a study area that fits them. It is **for guidance only** and is **not a real college or advice service**.
 
-**Live site:** (paste your link here)
+**Live site:** https://github.com/phindigee628-creator/course-finder/settings/pages
 
 **Built with:** HTML, CSS and JavaScript
 
